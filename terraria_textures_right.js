@@ -13,7 +13,7 @@
  *   var color = palette[idx];
  */
 
-var TERRARIA_TEXTURES = {
+var TERRARIA_TEXTURES_RIGHT = {
   "0": {
     "palette": [
       "#986848FF",
