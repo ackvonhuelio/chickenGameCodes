@@ -1,4 +1,4 @@
-[
+var flavorTexts = [
   {
     "quote": "This card's flavor text becomes the flavor text of your choice. (This ability doesn't work because it's flavor text, not rules text (but neither does this reminder text, so you figure it out).)",
     "is_object_or_background": false,
@@ -137759,4 +137759,4 @@
     "creature_hits": 2,
     "vetoed": false
   }
-]
+];
